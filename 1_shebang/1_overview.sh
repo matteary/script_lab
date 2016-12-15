@@ -1,3 +1,4 @@
+exit 0
 Specifies the interpretor to use for the script
 
 If you do not specify an interpreter line, the default is usually the /bin/sh. But, it is recommended that you set #!/bin/bash line.

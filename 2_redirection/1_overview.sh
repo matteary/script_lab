@@ -1,3 +1,4 @@
+exit 0
 There are 3 descriptors for files when redirecting;
 
  - stdin  | Standard In
@@ -22,10 +23,10 @@ stderr to file
  2>>
 
 stderr and stdout to file
- &>  
+ &>
 
 input to command
- < 
+ <
 
 ---------------------
 Terminal redirections
